@@ -2,6 +2,8 @@
 
 React-Native image drag&drop example by using [React Native Sortable List](https://github.com/gitim/react-native-sortable-list)
 
+### Demo
+
 ## create react native app
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
