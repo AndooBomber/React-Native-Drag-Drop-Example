@@ -4,8 +4,6 @@ React-Native image drag&drop example by using [React Native Sortable List](https
 
 ### Demo
 
-![Demo](https://raw.githubusercontent.com/AndooBomber/React-Native-Drag-Drop-Example/master/docs/IMG_7138.PNG)
-
 ## create react native app
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
